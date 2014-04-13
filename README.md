@@ -13,8 +13,11 @@ Project Members:
 2. Shalil Awaley
 3. Aadesh Neupane
 4. Rajesh Twanabasu
+5. Sagar Duwal
+6. Anish Duwal
+
 Reference:
-============
+==========
 http://geographiclib.sourceforge.net/
 http://www.chromeexperiments.com/globe
 http://www.gpsvisualizer.com/geocoder/elevation.html
